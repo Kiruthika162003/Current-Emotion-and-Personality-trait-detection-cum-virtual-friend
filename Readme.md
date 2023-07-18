@@ -155,6 +155,10 @@ The "Children - Child Mode" is a specialized feature designed to create a safe a
 
 The "Blind and Deaf - Special Mode" is a dedicated feature designed to provide a fully accessible and inclusive experience for users who are blind and deaf. This special mode caters to the unique needs of these users, offering tailored accessibility features and user interface adaptations. For the blind, the mode includes text-to-speech functionality, allowing all interface elements and content to be read aloud. This enables blind users to navigate the platform effortlessly and interact with textual information. For the deaf, the mode provides support for sign language videos or captions, ensuring that all audio and video content is accessible through visual means. The "Blind and Deaf - Special Mode" prioritizes inclusivity and ensures that all users, regardless of their abilities, can fully engage with the platform, fostering a more equitable digital experience.
 
+**12.Feature: Women and Help Seekers - Emergency Mode (SOS)**
 
+**Description:**
+
+The "Women and Help Seekers - Emergency Mode" is a critical safety feature designed to provide immediate assistance and support in emergency situations. This mode is particularly targeted towards women and individuals who may feel vulnerable or in need of urgent help. When activated, the Emergency Mode sends an SOS signal or distress call to predefined emergency contacts, such as family members, friends, or authorities. Additionally, the mode may trigger location sharing, allowing the user's real-time location to be transmitted to the emergency contacts, facilitating a quick response. The "Women and Help Seekers - Emergency Mode" prioritizes user safety and empowers individuals to seek help swiftly in times of distress, providing them with peace of mind and added security.
 
 
