@@ -143,3 +143,18 @@ The Virtual Friend utilizes AI to predict users' emotions, responding with empat
 
 The "Old People - Guide Mode" is a specialized feature designed to provide older users with a user-friendly and simplified interface. This mode caters to the unique needs and preferences of older individuals, offering a more accessible and easy-to-navigate experience. The Guide Mode includes larger and clearer text, simple icons, and intuitive navigation, reducing complexity and promoting ease of use for older users who may be less familiar with technology. Additionally, the mode may offer step-by-step instructions and voice-guided assistance to help older individuals interact with the system confidently. The primary aim of the "Old People - Guide Mode" is to empower older users to fully enjoy the platform and access its features independently, fostering digital inclusion and enhancing their overall experience.
 
+**10. Feature: Children - Child Mode**
+
+**Description:**
+
+The "Children - Child Mode" is a specialized feature designed to create a safe and child-friendly environment within the application or platform. When enabled, Child Mode restricts access to age-inappropriate content, ensuring that children can explore and interact with the platform without encountering any harmful or unsuitable material. Child Mode offers a simplified and visually engaging user interface with age-appropriate content and activities that align with the child's interests and learning needs. Additionally, Child Mode may include parental controls, time limits, and educational content to promote a healthy digital experience for young users. The primary goal of "Children - Child Mode" is to provide a secure and enjoyable digital space for children to learn, play, and explore, while giving parents peace of mind knowing their children are in a protected online environment.
+
+**11.Feature: Blind and Deaf - Special Mode**
+
+**Description:**
+
+The "Blind and Deaf - Special Mode" is a dedicated feature designed to provide a fully accessible and inclusive experience for users who are blind and deaf. This special mode caters to the unique needs of these users, offering tailored accessibility features and user interface adaptations. For the blind, the mode includes text-to-speech functionality, allowing all interface elements and content to be read aloud. This enables blind users to navigate the platform effortlessly and interact with textual information. For the deaf, the mode provides support for sign language videos or captions, ensuring that all audio and video content is accessible through visual means. The "Blind and Deaf - Special Mode" prioritizes inclusivity and ensures that all users, regardless of their abilities, can fully engage with the platform, fostering a more equitable digital experience.
+
+
+
+
