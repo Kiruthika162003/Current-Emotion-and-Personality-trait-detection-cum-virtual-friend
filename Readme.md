@@ -131,3 +131,9 @@ The system offers a Multi-Modal Biometric Login and Registration page, providing
 
 The system categorizes users into different types, including Guest, Admin, Old Person, Working Professional, Special Person, and Normal User. Each user type is provided with a separate kind of dashboard tailored to their specific needs and preferences. The user type-based dashboards enhance the user experience by offering personalized functionalities, relevant content, and specific features that cater to the unique requirements of each user category. This feature ensures that users have an optimized and user-friendly interface based on their roles and characteristics.
 
+**8.Feature: Emotion-Predictive Virtual Friend with Screen Time Reports**
+
+**Description:**
+
+The Virtual Friend utilizes AI to predict users' emotions, responding with empathy and tailored recommendations. It also tracks users' screen time, generating detailed reports for promoting healthy digital habits. This feature creates a supportive and personalized experience, fostering digital well-being and emotional connection.
+
