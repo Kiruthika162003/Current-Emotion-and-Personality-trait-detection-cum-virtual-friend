@@ -53,4 +53,28 @@ The system employs voice recognition technology to analyze the user's spoken wor
 
 User: "Hello, virtual assistant. I'm feeling really excited about the upcoming event!"
 
-System: (Voice Recognition Analyzing) Emotion detected: Excited
+ System: (Voice Recognition Analyzing) Emotion detected: Excited
+
+**4. Feature: Stress Level Finder**
+
+**Description:**
+
+The Stress Level Finder is a module that assesses and quantifies a user's stress level based on their responses to a series of questions or prompts. By analyzing the user's answers and emotional cues, the system can determine the user's stress level, providing valuable insights into their mental well-being. This feature enhances the system's capability to offer personalized support, stress management tips, and resources to help users cope with stress effectively.
+
+**Example:**
+
+User: (Interacting with the Stress Level Finder module)
+
+System: Please answer the following questions:
+
+How often do you feel overwhelmed with your responsibilities? (Never/Sometimes/Often)
+User: Often
+System:
+How well do you sleep at night? (Very well/Okay/Poorly)
+User: Poorly
+System:
+How frequently do you experience physical symptoms of stress? (Rarely/Sometimes/Often)
+User: Often
+(Analyzing user responses and emotional cues)
+
+System: Based on your responses, it appears that your stress level is moderately high. We recommend practicing relaxation techniques and engaging in activities that help reduce stress. Remember to seek support from friends, family, or professional help if needed. Take care of yourself!
