@@ -137,3 +137,9 @@ The system categorizes users into different types, including Guest, Admin, Old P
 
 The Virtual Friend utilizes AI to predict users' emotions, responding with empathy and tailored recommendations. It also tracks users' screen time, generating detailed reports for promoting healthy digital habits. This feature creates a supportive and personalized experience, fostering digital well-being and emotional connection.
 
+**9.Feature: Old People - Guide Mode**
+
+**Description:**
+
+The "Old People - Guide Mode" is a specialized feature designed to provide older users with a user-friendly and simplified interface. This mode caters to the unique needs and preferences of older individuals, offering a more accessible and easy-to-navigate experience. The Guide Mode includes larger and clearer text, simple icons, and intuitive navigation, reducing complexity and promoting ease of use for older users who may be less familiar with technology. Additionally, the mode may offer step-by-step instructions and voice-guided assistance to help older individuals interact with the system confidently. The primary aim of the "Old People - Guide Mode" is to empower older users to fully enjoy the platform and access its features independently, fostering digital inclusion and enhancing their overall experience.
+
