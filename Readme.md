@@ -125,3 +125,9 @@ System processes the video frames, detecting the user's emotions throughout the 
 
 The system offers a Multi-Modal Biometric Login and Registration page, providing users with flexible options to access the platform securely. Users can choose to register their face, voice, username, and password to access the system's features. This multi-modal approach allows users to log in using any of the registered biometric methods, providing enhanced accessibility and user convenience. Whether users have a sore throat, encounter poor lighting conditions, or forget their credentials, they can still access the system using their preferred biometric method, adding an extra layer of security and user-friendliness
 
+**7. Feature: User Type-Based Dashboards**
+
+**Description:**
+
+The system categorizes users into different types, including Guest, Admin, Old Person, Working Professional, Special Person, and Normal User. Each user type is provided with a separate kind of dashboard tailored to their specific needs and preferences. The user type-based dashboards enhance the user experience by offering personalized functionalities, relevant content, and specific features that cater to the unique requirements of each user category. This feature ensures that users have an optimized and user-friendly interface based on their roles and characteristics.
+
