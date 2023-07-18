@@ -78,3 +78,44 @@ User: Often
 (Analyzing user responses and emotional cues)
 
 System: Based on your responses, it appears that your stress level is moderately high. We recommend practicing relaxation techniques and engaging in activities that help reduce stress. Remember to seek support from friends, family, or professional help if needed. Take care of yourself!
+
+**5. Feature: Emotion Detection from Photos and Videos**
+
+**Description:**
+
+The system incorporates computer vision and deep learning techniques to detect emotions from uploaded photos, group photos, and videos. By analyzing facial expressions, body language, and voice tone, the system can accurately identify emotions such as happiness, sadness, anger, and more. This feature enhances the system's ability to understand users' emotions in various contexts, allowing for personalized interactions and content recommendations.
+
+**Example:**
+
+**Photo Emotion Detection:**
+
+User uploads a selfie showing a joyful expression.
+System analyzes the photo and detects the emotion as "Happy."
+
+**Group Photo Emotion Detection:**
+
+User shares a group photo from a celebration.
+System analyzes the facial expressions of individuals in the photo and identifies emotions such as "Happy," "Excited," and "Joyful."
+
+**Uploaded Video Emotion Detection:**
+
+User uploads a short video sharing their travel experience.
+System processes the video frames, detecting the user's emotions throughout the journey, such as "Excitement" during adventures and "Relaxation" at scenic spots.
+
+**Description:**
+The system incorporates computer vision and deep learning techniques to detect emotions from uploaded photos, group photos, and videos. By analyzing facial expressions, body language, and voice tone, the system can accurately identify emotions such as happiness, sadness, anger, and more. This feature enhances the system's ability to understand users' emotions in various contexts, allowing for personalized interactions and content recommendations.
+
+**Example:**
+
+Photo Emotion Detection:
+User uploads a selfie showing a joyful expression.
+System analyzes the photo and detects the emotion as "Happy."
+
+Group Photo Emotion Detection:
+User shares a group photo from a celebration.
+System analyzes the facial expressions of individuals in the photo and identifies emotions such as "Happy," "Excited," and "Joyful."
+
+Uploaded Video Emotion Detection:
+User uploads a short video sharing their travel experience.
+System processes the video frames, detecting the user's emotions throughout the journey, such as "Excitement" during adventures and "Relaxation" at scenic spots.
+
