@@ -42,3 +42,15 @@ Gender: Female (Assumed based on the user's text)
 Age Group: Young Adult (Estimated based on the user's text)
 
 Current Mood: Joyful
+
+**3. Feature: Emotion Detection Using Voice Recognition**
+
+**Description:**
+
+The system employs voice recognition technology to analyze the user's spoken words and detect their emotional state. Utilizing machine learning models, the system can identify emotions like happiness, sadness, anger, or excitement based on the user's voice intonation, pitch, and speech patterns. This feature enhances the system's ability to understand users' emotions and provide more empathetic and personalized interactions.
+
+**Example:**
+
+User: "Hello, virtual assistant. I'm feeling really excited about the upcoming event!"
+
+System: (Voice Recognition Analyzing) Emotion detected: Excited
