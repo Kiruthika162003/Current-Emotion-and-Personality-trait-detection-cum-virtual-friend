@@ -167,6 +167,17 @@ The "Women and Help Seekers - Emergency Mode" is a critical safety feature desig
 
 The "Family Circle - Locate My Circle" feature enables family members to locate each other in real-time via a map interface. When activated, this feature displays the real-time locations of all family members within the circle on a map, allowing users to track their loved ones' whereabouts at a particular moment. Each family member's location is represented by a marker on the map, and their movements are continuously updated as they move. This feature promotes a sense of security and provides peace of mind to family members, as they can quickly check on each other's safety and coordinate meetups more effectively. "Family Circle - Locate My Circle" encourages stronger family bonds and fosters a greater sense of togetherness, even when physically apart.
 
+**14.Feature: Alzheimer's Disease People - Check Mode**
+
+**Description:**
+
+The "Alzheimer's Disease People - Check Mode" is a specialized feature designed to provide support and reassurance to individuals with Alzheimer's disease or other forgetting disorders. When activated, this mode helps users check and review essential information and reminders to aid memory retention. The feature may include a digital memory journal, where users can record daily activities, appointments, and important events. Additionally, the Check Mode can set up automatic reminders for medication schedules, important tasks, and personal notes to prompt memory recall. The interface is designed to be simple, intuitive, and non-intrusive, fostering a calm and supportive digital environment. The "Alzheimer's Disease People - Check Mode" aims to alleviate anxiety and enhance the sense of independence for individuals facing memory challenges, helping them manage their daily lives more effectively.
+
+
+
+
+
+
 
 
 
