@@ -161,4 +161,14 @@ The "Blind and Deaf - Special Mode" is a dedicated feature designed to provide a
 
 The "Women and Help Seekers - Emergency Mode" is a critical safety feature designed to provide immediate assistance and support in emergency situations. This mode is particularly targeted towards women and individuals who may feel vulnerable or in need of urgent help. When activated, the Emergency Mode sends an SOS signal or distress call to predefined emergency contacts, such as family members, friends, or authorities. Additionally, the mode may trigger location sharing, allowing the user's real-time location to be transmitted to the emergency contacts, facilitating a quick response. The "Women and Help Seekers - Emergency Mode" prioritizes user safety and empowers individuals to seek help swiftly in times of distress, providing them with peace of mind and added security.
 
+**13.Feature: Family Circle - Locate My Circle**
+
+**Description:**
+
+The "Family Circle - Locate My Circle" feature enables family members to locate each other in real-time via a map interface. When activated, this feature displays the real-time locations of all family members within the circle on a map, allowing users to track their loved ones' whereabouts at a particular moment. Each family member's location is represented by a marker on the map, and their movements are continuously updated as they move. This feature promotes a sense of security and provides peace of mind to family members, as they can quickly check on each other's safety and coordinate meetups more effectively. "Family Circle - Locate My Circle" encourages stronger family bonds and fosters a greater sense of togetherness, even when physically apart.
+
+
+
+
+
 
