@@ -9,10 +9,15 @@ The code implements an emotion-based search recommendation system, suggesting co
 **Example:**
 
 User's Emotion: "happy"
+
 User's Search History: ["travel", "cooking", "music"]
+
 Emotion-Based Recommendation:
+
 Comedy Movie A
+
 Romantic Song X
+
 Uplifting Recipe Y
 
 The system utilizes emotion detection and user profiling to suggest relevant content based on the user's emotional state and preferences, resulting in a more personalized content experience for each user.
@@ -26,8 +31,13 @@ The code implements a comprehensive emotion detection system that includes senti
 **Example:**
 
 User Input: "I just finished reading a heartwarming novel. Feeling happy!"
+
 Output:
+
 Emotion: Happy
+
 Gender: Female (Assumed based on the user's text)
+
 Age Group: Young Adult (Estimated based on the user's text)
+
 Current Mood: Joyful
