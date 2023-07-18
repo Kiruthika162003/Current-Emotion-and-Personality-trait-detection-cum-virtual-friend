@@ -119,3 +119,9 @@ Uploaded Video Emotion Detection:
 User uploads a short video sharing their travel experience.
 System processes the video frames, detecting the user's emotions throughout the journey, such as "Excitement" during adventures and "Relaxation" at scenic spots.
 
+**6.Feature: Multi-Modal Biometric Login and Registration**
+
+**Description:**
+
+The system offers a Multi-Modal Biometric Login and Registration page, providing users with flexible options to access the platform securely. Users can choose to register their face, voice, username, and password to access the system's features. This multi-modal approach allows users to log in using any of the registered biometric methods, providing enhanced accessibility and user convenience. Whether users have a sore throat, encounter poor lighting conditions, or forget their credentials, they can still access the system using their preferred biometric method, adding an extra layer of security and user-friendliness
+
